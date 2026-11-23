@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 ᴀʙᴏᴜᴛ ᴍᴇ
+## ᴀʙᴏᴜᴛ ᴍᴇ
 
 ```yaml
 name:        Navyashree J
@@ -24,12 +24,12 @@ education:   BTech CSE (AI/ML), PES University, Bengaluru (2023 – 2027)
 focus:       Backend systems · Full-stack web · Machine learning services
 research:    Research Intern @ RAPID Center, PES University (Jun 2025 – present)
 available:   SDE / AI/ML internship (Jan – Jun 2027) · 2027 full-time roles
-location:    Bengaluru, India 🇮🇳
+location:    Bengaluru, India
 ```
 
 ---
 
-## 🛠️ ᴛᴇᴄʜ ᴀʀꜱᴇɴᴀʟ
+## ᴛᴇᴄʜ ᴀʀꜱᴇɴᴀʟ
 
 <div align="center">
 
@@ -53,9 +53,9 @@ location:    Bengaluru, India 🇮🇳
 
 ---
 
-## 🌍 ᴘʀᴏᴊᴇᴄᴛ ᴍᴀᴛʀɪx
+## ᴘʀᴏᴊᴇᴄᴛ ᴍᴀᴛʀɪx
 
-| 🚀 Project | 🎯 What it is | 🔗 Tech stack |
+| Project | What it is | Tech stack |
 |:--|:--|:--|
 | [**SecureLedger**](https://github.com/Navyashree04/Secureledger) | Core banking transaction API | Java · Spring Boot · PostgreSQL · JWT |
 | [**SecureLedger + TransactionWatch**](https://github.com/Navyashree04/Secureledger-transactionwatch) | Event-driven fraud alerting across 2 services | Spring Boot · Kafka · Redis · Docker |
@@ -64,7 +64,7 @@ location:    Bengaluru, India 🇮🇳
 | [**Brain Tumour MRI**](https://github.com/Navyashree04/BRAIN_TUMOR_CLASSIFICATION) | CNN–Transformer MRI classifier, 99.16% | PyTorch · timm · Grad-CAM |
 | [**Social Subtext Decoder**](https://github.com/Navyashree04/Social-Subtext-Decoder) | AI assistant for tone and implied meaning | React · Node.js · Express · Gemini |
 
-### 🔹 [SECURELEDGER] ᴄᴏʀᴇ ʙᴀɴᴋɪɴɢ ᴀᴘɪ
+### [SECURELEDGER] ᴄᴏʀᴇ ʙᴀɴᴋɪɴɢ ᴀᴘɪ
 ```diff
 $ ./mvnw spring-boot:run
 + Atomic transfers with pessimistic locking
@@ -73,7 +73,7 @@ $ ./mvnw spring-boot:run
 + Concurrent-transfer and end-to-end integration tests
 ```
 
-### 🔹 [TRANSACTIONWATCH] ᴇᴠᴇɴᴛ-ᴅʀɪᴠᴇɴ ꜰʀᴀᴜᴅ ᴀʟᴇʀᴛɪɴɢ
+### [TRANSACTIONWATCH] ᴇᴠᴇɴᴛ-ᴅʀɪᴠᴇɴ ꜰʀᴀᴜᴅ ᴀʟᴇʀᴛɪɴɢ
 ```diff
 $ docker compose up
 + SecureLedger publishes an event every time money moves (Kafka)
@@ -81,7 +81,7 @@ $ docker compose up
 + Admin API to review raised alerts
 ```
 
-### 🔹 [FRAUDSCOPE] ᴍʟ ꜰʀᴀᴜᴅ ꜱᴄᴏʀɪɴɢ ꜱᴇʀᴠɪᴄᴇ
+### [FRAUDSCOPE] ᴍʟ ꜰʀᴀᴜᴅ ꜱᴄᴏʀɪɴɢ ꜱᴇʀᴠɪᴄᴇ
 ```diff
 $ uvicorn app.main:app
 + Offline training pipeline -> REST scoring API
@@ -89,7 +89,7 @@ $ uvicorn app.main:app
 + Class-imbalance-aware evaluation report + pytest suite
 ```
 
-### 🔹 [QUIRKY QUEST] ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ɢᴀᴍɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍ
+### [QUIRKY QUEST] ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ɢᴀᴍɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍ
 ```diff
 $ npm run dev
 + JWT auth with rotating refresh tokens, rate limiting and zod validation
@@ -100,9 +100,9 @@ $ npm run dev
 
 ---
 
-## 🔬 ʀᴇꜱᴇᴀʀᴄʜ
+## ʀᴇꜱᴇᴀʀᴄʜ
 
-### 🔹 [[BRAIN TUMOUR MRI]](https://github.com/Navyashree04/BRAIN_TUMOR_CLASSIFICATION) ᴄɴɴ–ᴛʀᴀɴꜱꜰᴏʀᴍᴇʀ ꜰᴜꜱɪᴏɴ · ʀᴀᴘɪᴅ ᴄᴇɴᴛᴇʀ
+### [[BRAIN TUMOUR MRI]](https://github.com/Navyashree04/BRAIN_TUMOR_CLASSIFICATION) ᴄɴɴ–ᴛʀᴀɴꜱꜰᴏʀᴍᴇʀ ꜰᴜꜱɪᴏɴ · ʀᴀᴘɪᴅ ᴄᴇɴᴛᴇʀ
 ```diff
 $ jupyter notebook "VGG16_ViT_Hybrid_BrainTumor(7153).ipynb"
 + 4-class MRI classification on 7,153 scans (glioma, meningioma, pituitary, no tumour)
@@ -120,7 +120,7 @@ $ jupyter notebook "VGG16_ViT_Hybrid_BrainTumor(7153).ipynb"
 
 ---
 
-## 📊 ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄꜱ
+## ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄꜱ
 
 <div align="center">
 
@@ -135,7 +135,7 @@ $ jupyter notebook "VGG16_ViT_Hybrid_BrainTumor(7153).ipynb"
 
 ---
 
-## 🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ꜱɴᴀᴋᴇ
+## ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ꜱɴᴀᴋᴇ
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Navyashree04/Navyashree04/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
@@ -143,7 +143,7 @@ $ jupyter notebook "VGG16_ViT_Hybrid_BrainTumor(7153).ipynb"
 
 ---
 
-## 📱 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ
+## ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ
 
 <div align="center">
 
