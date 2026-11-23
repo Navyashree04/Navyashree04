@@ -1,5 +1,4 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Navyashree%20J&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20AI%2FML%20Builder%20%C2%B7%20PES%20University%202027&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Navyashree%20J&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20and%20AI%2FML%20Builder%20%C2%B7%20PES%20University%202027&descAlignY=60&descSize=16" width="100%"/>
 
 <div align="center">
 
